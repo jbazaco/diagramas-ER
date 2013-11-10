@@ -1,0 +1,1 @@
+2.Sí, metiendo "Avión" y "Modelo" en una agregación, haciendo que la entidad "Técnico" este relacionada como "experto en" con una agregación de dicho tipo. La relación entre estas tres entidades formaría una nueva agregación que se relacionaría con las entidades "Prueba de avión" y "Aeropuerto".
